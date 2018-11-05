@@ -16,7 +16,7 @@ public class CallFacade {
     private NumberValidator numberValidator;
 
     /**
-     * Formats number and validates it. Valid number being savea
+     * Formats number and validates it. Valid number being saved
      *
      * @param call   {@link Call} object needs to be handled
      * @param errors an {@link BeanPropertyBindingResult} object
